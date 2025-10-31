@@ -68,9 +68,7 @@ Requirements
        
   Graph Outputs
     Actual prices (black)
-    
     Predicted prices (green)
-    
     Highest predicted point highlighted
     
 
