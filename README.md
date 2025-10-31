@@ -27,14 +27,14 @@ Features
     Highlight of highest predicted price
     Training vs. Testing data visualization
 
- Category          Tools                       
+ Category         -   Tools                       
 
- Language          Python                      
- Deep Learning     TensorFlow / Keras          
- Data Fetching     yfinance                    
- Data Processing   pandas, numpy               
- Plotting          matplotlib                  
- Scaling           scikit-learn (MinMaxScaler) 
+ Language         -   Python                      
+ Deep Learning    -   TensorFlow / Keras          
+ Data Fetching    -   yfinance                    
+ Data Processing  -   pandas, numpy               
+ Plotting         -   matplotlib                  
+ Scaling          -   scikit-learn (MinMaxScaler) 
 
 
 
