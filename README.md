@@ -68,12 +68,17 @@ Requirements
        
   Graph Outputs
     Actual prices (black)
+    
     Predicted prices (green)
+    
     Highest predicted point highlighted
+    
 
 Data Source
 This project uses live market data fetched through the yfinance Python package:
+
 https://pypi.org/project/yfinance/
+
 Yahoo Finance is the underlying data provider accessed through this library.
 
 
