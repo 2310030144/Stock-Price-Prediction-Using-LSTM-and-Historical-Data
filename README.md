@@ -38,10 +38,6 @@ Features
 
 
 
-├── lstm_stock_prediction.ipynb     
-├── README.md                       
-├── model/                          
-└── images/      
 
 How to Run
 Requirements
